@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url('/img/pexels-photo1900.png');
+    background-image: url('./img/pexels-photo1900.png');
 }
 
 .inner__container {
